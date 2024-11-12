@@ -58,9 +58,9 @@ Run `ng serve` OR `ng s` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Generating a new component|module|service
 
-Run `ng generate component component-name` OR `ng g c component-name` to generate a new component.
-Run `ng generate module component-name` OR `ng g m module-name` to module a new component.
-Run `ng generate service component-name` OR `ng g s service-name` to service a new component.
+- Run `ng generate component component-name` OR `ng g c component-name` to generate a new component.
+- Run `ng generate module component-name` OR `ng g m module-name` to module a new component.
+- Run `ng generate service component-name` OR `ng g s service-name` to service a new component.
 
 ## Help
 

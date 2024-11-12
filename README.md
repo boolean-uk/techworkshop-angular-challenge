@@ -40,6 +40,7 @@ Implement the following requirements:
   - Can open a dialog OR navigate to a page (Your choice)
 - Create a `user` component that will display a user's name and email address.
 - Create a method in the `user-service` to retrieve all users (create your own dummy data)
+- In your `user-list` component inject the service into the constructor of the component to be able to user the method
 - Example of IUser interface below. (You can extend it if you want)
 
 ```ts
